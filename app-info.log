@@ -1,0 +1,112 @@
+[INFO ] 2020-01-12 18:31:53.210 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 18:31:55.599 [main] SwagLabsPage - *********Entering password*********
+[INFO ] 2020-01-12 18:31:57.912 [main] SwagLabsPage - *********Click on Login Button*********
+[INFO ] 2020-01-12 18:32:17.272 [main] SwagLabsPage - *********Verify if login is successful*********
+[INFO ] 2020-01-12 19:27:18.305 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 19:27:20.507 [main] SwagLabsPage - *********Entering password*********
+[INFO ] 2020-01-12 19:27:22.791 [main] SwagLabsPage - *********Click on Login Button*********
+[INFO ] 2020-01-12 19:27:39.156 [main] SwagLabsPage - *********Verify if login is successful*********
+[INFO ] 2020-01-12 19:30:00.598 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 19:30:02.879 [main] SwagLabsPage - *********Entering password*********
+[INFO ] 2020-01-12 19:30:05.203 [main] SwagLabsPage - *********Click on Login Button*********
+[INFO ] 2020-01-12 19:30:28.027 [main] SwagLabsPage - *********Verify if login is successful*********
+[INFO ] 2020-01-12 21:45:02.022 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 21:45:04.390 [main] SwagLabsPage - *********Entering password*********
+[INFO ] 2020-01-12 21:45:06.660 [main] SwagLabsPage - *********Click on Login Button*********
+[INFO ] 2020-01-12 21:45:29.287 [main] SwagLabsPage - *********Verify if login is successful*********
+[INFO ] 2020-01-12 21:45:29.759 [main] SwagLabsPage - *********select*********Price (high to low)
+[INFO ] 2020-01-12 21:45:34.789 [main] SwagLabsPage - *********Add Item to Cart*********
+[INFO ] 2020-01-12 21:45:34.809 [main] SwagLabsPage - Total Item available to add in cart  :::  6
+[INFO ] 2020-01-12 21:45:34.880 [main] SwagLabsPage - Item added to cart  ::  Sauce Labs Fleece Jacket
+[INFO ] 2020-01-12 21:45:34.937 [main] SwagLabsPage - Item price  ::  $49.99
+[INFO ] 2020-01-12 21:45:37.111 [main] SwagLabsPage - Cart Items Count  ::  1
+[INFO ] 2020-01-12 21:45:37.201 [main] SwagLabsPage - Item added to cart  ::  Sauce Labs Backpack
+[INFO ] 2020-01-12 21:45:37.246 [main] SwagLabsPage - Item price  ::  $29.99
+[INFO ] 2020-01-12 21:45:39.418 [main] SwagLabsPage - Cart Items Count  ::  2
+[INFO ] 2020-01-12 21:45:39.516 [main] SwagLabsPage - Item added to cart  ::  Test.allTheThings() T-Shirt (Red)
+[INFO ] 2020-01-12 21:45:39.554 [main] SwagLabsPage - Item price  ::  $15.99
+[INFO ] 2020-01-12 21:45:41.719 [main] SwagLabsPage - Cart Items Count  ::  3
+[INFO ] 2020-01-12 21:45:41.813 [main] SwagLabsPage - Item added to cart  ::  Sauce Labs Bolt T-Shirt
+[INFO ] 2020-01-12 21:45:41.853 [main] SwagLabsPage - Item price  ::  $15.99
+[INFO ] 2020-01-12 21:45:43.978 [main] SwagLabsPage - Cart Items Count  ::  4
+[INFO ] 2020-01-12 21:46:37.622 [main] SwagLabsPage - *********Verify user navigate to Cart*********
+[INFO ] 2020-01-12 21:46:37.687 [main] SwagLabsPage - *********Remove one item from the cart*********
+[INFO ] 2020-01-12 21:46:42.919 [main] SwagLabsPage - Item has been removed successfully
+[INFO ] 2020-01-12 21:46:42.942 [main] SwagLabsPage - ******Final Item present in Cart*********
+[INFO ] 2020-01-12 21:46:43.083 [main] SwagLabsPage - Final Item added to cart  ::  Sauce Labs Backpack  with price  ::  29.99
+[INFO ] 2020-01-12 21:46:43.101 [main] SwagLabsPage - ******Final Item present in Cart*********
+[INFO ] 2020-01-12 21:46:43.247 [main] SwagLabsPage - Final Item added to cart  ::  Test.allTheThings() T-Shirt (Red)  with price  ::  15.99
+[INFO ] 2020-01-12 21:46:43.262 [main] SwagLabsPage - ******Final Item present in Cart*********
+[INFO ] 2020-01-12 21:46:43.411 [main] SwagLabsPage - Final Item added to cart  ::  Sauce Labs Bolt T-Shirt  with price  ::  15.99
+[INFO ] 2020-01-12 21:46:43.427 [main] SwagLabsPage - ******Click on Checkout Button**********
+[INFO ] 2020-01-12 21:46:46.265 [main] SwagLabsPage - ******Enter First Name**********
+[INFO ] 2020-01-12 21:46:48.541 [main] SwagLabsPage - ******Enter Last Name**********
+[INFO ] 2020-01-12 21:46:50.798 [main] SwagLabsPage - ******Enter postal Address**********
+[INFO ] 2020-01-12 21:46:53.046 [main] SwagLabsPage - ******Click on Continue Button**********
+[INFO ] 2020-01-12 21:46:55.655 [main] SwagLabsPage - Expected Total amount ::  61.97
+[INFO ] 2020-01-12 21:46:55.702 [main] SwagLabsPage - Actual subtotal amount ::  Item total: $61.97
+[INFO ] 2020-01-12 21:46:55.731 [main] SwagLabsPage - Amount of expected and actual are equal
+[INFO ] 2020-01-12 22:16:47.449 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 22:16:47.462 [main] SwagLabsPage - Exception occured while executing the testcases
+[INFO ] 2020-01-12 22:18:55.187 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 22:18:55.200 [main] SwagLabsPage - Exception occured while executing the testcases
+[INFO ] 2020-01-12 22:20:08.809 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 22:20:11.134 [main] SwagLabsPage - *********Entering password*********
+[INFO ] 2020-01-12 22:20:13.446 [main] SwagLabsPage - *********Click on Login Button*********
+[INFO ] 2020-01-12 22:20:36.075 [main] SwagLabsPage - *********Verify if login is successful*********
+[INFO ] 2020-01-12 22:50:36.545 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 22:50:39.053 [main] SwagLabsPage - Exception occured while executing the testcases
+[INFO ] 2020-01-12 22:59:01.736 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 22:59:04.106 [main] SwagLabsPage - Exception occured while executing the testcases
+[INFO ] 2020-01-12 22:59:24.644 [main] SwagLabsPage - *********Add Item to Cart*********
+[INFO ] 2020-01-12 22:59:44.662 [main] SwagLabsPage - Total Item available to add in cart  :::  0
+[INFO ] 2020-01-12 23:00:04.689 [main] SwagLabsPage - *********Verify user navigate to Cart*********
+[INFO ] 2020-01-12 23:00:24.709 [main] SwagLabsPage - Exception occured while executing the testcases
+[INFO ] 2020-01-12 23:00:24.717 [main] SwagLabsPage - *********Remove one item from the cart*********
+[INFO ] 2020-01-12 23:00:26.900 [main] SwagLabsPage - ******Enter First Name**********
+[INFO ] 2020-01-12 23:00:28.386 [main] SwagLabsPage - Expected Total amount ::  0.0
+[INFO ] 2020-01-12 23:01:10.718 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 23:01:12.970 [main] SwagLabsPage - Exception occured while executing the testcases
+[INFO ] 2020-01-12 23:01:33.479 [main] SwagLabsPage - *********Add Item to Cart*********
+[INFO ] 2020-01-12 23:01:53.515 [main] SwagLabsPage - Total Item available to add in cart  :::  0
+[INFO ] 2020-01-12 23:02:13.595 [main] SwagLabsPage - *********Verify user navigate to Cart*********
+[INFO ] 2020-01-12 23:02:34.102 [main] SwagLabsPage - Exception occured while executing the testcases
+[INFO ] 2020-01-12 23:02:34.106 [main] SwagLabsPage - *********Remove one item from the cart*********
+[INFO ] 2020-01-12 23:02:45.995 [main] SwagLabsPage - ******Enter First Name**********
+[INFO ] 2020-01-12 23:02:47.477 [main] SwagLabsPage - Expected Total amount ::  0.0
+[INFO ] 2020-01-12 23:04:21.365 [main] SwagLabsPage - *********Entering username*********
+[INFO ] 2020-01-12 23:04:23.845 [main] SwagLabsPage - *********Entering password*********
+[INFO ] 2020-01-12 23:04:26.232 [main] SwagLabsPage - *********Click on Login Button*********
+[INFO ] 2020-01-12 23:04:49.043 [main] SwagLabsPage - *********Verify if login is successful*********
+[INFO ] 2020-01-12 23:04:49.580 [main] SwagLabsPage - *********select*********Price (high to low)
+[INFO ] 2020-01-12 23:04:54.593 [main] SwagLabsPage - *********Add Item to Cart*********
+[INFO ] 2020-01-12 23:04:54.644 [main] SwagLabsPage - Total Item available to add in cart  :::  6
+[INFO ] 2020-01-12 23:04:54.775 [main] SwagLabsPage - Item added to cart  ::  Sauce Labs Fleece Jacket
+[INFO ] 2020-01-12 23:04:54.893 [main] SwagLabsPage - Item price  ::  $49.99
+[INFO ] 2020-01-12 23:04:57.238 [main] SwagLabsPage - Cart Items Count  ::  1
+[INFO ] 2020-01-12 23:04:57.423 [main] SwagLabsPage - Item added to cart  ::  Sauce Labs Backpack
+[INFO ] 2020-01-12 23:04:57.506 [main] SwagLabsPage - Item price  ::  $29.99
+[INFO ] 2020-01-12 23:04:59.779 [main] SwagLabsPage - Cart Items Count  ::  2
+[INFO ] 2020-01-12 23:04:59.958 [main] SwagLabsPage - Item added to cart  ::  Test.allTheThings() T-Shirt (Red)
+[INFO ] 2020-01-12 23:05:00.025 [main] SwagLabsPage - Item price  ::  $15.99
+[INFO ] 2020-01-12 23:05:02.340 [main] SwagLabsPage - Cart Items Count  ::  3
+[INFO ] 2020-01-12 23:05:02.541 [main] SwagLabsPage - Item added to cart  ::  Sauce Labs Bolt T-Shirt
+[INFO ] 2020-01-12 23:05:02.624 [main] SwagLabsPage - Item price  ::  $15.99
+[INFO ] 2020-01-12 23:05:04.899 [main] SwagLabsPage - Cart Items Count  ::  4
+[INFO ] 2020-01-12 23:05:38.464 [main] SwagLabsPage - *********Verify user navigate to Cart*********
+[INFO ] 2020-01-12 23:05:38.582 [main] SwagLabsPage - *********Remove one item from the cart*********
+[INFO ] 2020-01-12 23:05:43.900 [main] SwagLabsPage - Item has been removed successfully
+[INFO ] 2020-01-12 23:05:43.916 [main] SwagLabsPage - ******Final Item present in Cart*********
+[INFO ] 2020-01-12 23:05:44.128 [main] SwagLabsPage - Final Item added to cart  ::  Sauce Labs Backpack  with price  ::  29.99
+[INFO ] 2020-01-12 23:05:44.158 [main] SwagLabsPage - ******Final Item present in Cart*********
+[INFO ] 2020-01-12 23:05:44.353 [main] SwagLabsPage - Final Item added to cart  ::  Test.allTheThings() T-Shirt (Red)  with price  ::  15.99
+[INFO ] 2020-01-12 23:05:44.376 [main] SwagLabsPage - ******Final Item present in Cart*********
+[INFO ] 2020-01-12 23:05:44.559 [main] SwagLabsPage - Final Item added to cart  ::  Sauce Labs Bolt T-Shirt  with price  ::  15.99
+[INFO ] 2020-01-12 23:05:44.583 [main] SwagLabsPage - ******Click on Checkout Button**********
+[INFO ] 2020-01-12 23:05:47.227 [main] SwagLabsPage - ******Enter First Name**********
+[INFO ] 2020-01-12 23:05:49.655 [main] SwagLabsPage - ******Enter Last Name**********
+[INFO ] 2020-01-12 23:05:52.095 [main] SwagLabsPage - ******Enter postal Address**********
+[INFO ] 2020-01-12 23:05:54.452 [main] SwagLabsPage - ******Click on Continue Button**********
+[INFO ] 2020-01-12 23:05:57.562 [main] SwagLabsPage - Expected Total amount ::  61.97
+[INFO ] 2020-01-12 23:05:57.621 [main] SwagLabsPage - Actual subtotal amount ::  Item total: $61.97
+[INFO ] 2020-01-12 23:05:57.651 [main] SwagLabsPage - Amount of expected and actual are equal
